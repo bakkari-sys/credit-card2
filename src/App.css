@@ -1,0 +1,36 @@
+.creditcard {
+  height: 400px;
+  width: 470px;
+  border: 1px solid blue;
+  margin: 0px;
+  border-radius: 44px;
+}
+.title{
+  float: right;
+  margin-right: 20px;
+ 
+}
+.sim{
+  margin-left: 40px;
+  margin-top: 85px;
+}
+.username{
+  margin-right: 20px;
+  float: right;
+}
+.name{
+  margin-left: 35px;
+  margin-top: 130px;
+}
+.numbers{
+  margin-left: 40px;
+}
+.inputcontainer{
+  margin-left: 470px;
+}
+input[type="text"] {
+    margin: 5px;
+    display: block;
+    margin-left: 99px;
+    width: 309px;
+}
